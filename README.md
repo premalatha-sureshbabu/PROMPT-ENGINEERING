@@ -47,14 +47,16 @@ Parallel Processing: Unlike RNNs, transformers process entire sequences simultan
 ### 3. Applications of Generative AI
 Generative AI has seen rapid growth across multiple domains:
 
-Domain	Application
-Text Generation	Chatbots (e.g., ChatGPT), story generation, summarization
-Image Generation	Tools like DALL·E, Midjourney for art and design
-Code Generation	GitHub Copilot, CodeWhisperer
-Music Creation	AI-generated compositions and soundtracks
-Healthcare	Medical imaging synthesis, report generation
-Education	AI tutors, personalized learning content
-Gaming	Character dialogues, plot generation, environment design
+| **Domain**       | **Application**                                           |
+| ---------------- | --------------------------------------------------------- |
+| Text Generation  | Chatbots (e.g., ChatGPT), story generation, summarization |
+| Image Generation | Tools like DALL·E, Midjourney for art and design          |
+| Code Generation  | GitHub Copilot, CodeWhisperer                             |
+| Music Creation   | AI-generated compositions and soundtracks                 |
+| Healthcare       | Medical imaging synthesis, report generation              |
+| Education        | AI tutors, personalized learning content                  |
+| Gaming           | Character dialogues, plot generation, environment design  |
+
 
 ### 4. Impact of Scaling in LLMs (Large Language Models)
 Scaling refers to increasing the size of models in terms of parameters, training data, and compute power. Modern LLMs (like GPT-3, GPT-4) contain billions of parameters and are trained on massive datasets.
