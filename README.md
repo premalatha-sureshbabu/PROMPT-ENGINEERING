@@ -142,9 +142,8 @@ Self-Attention Layers: Contextualize every word in a sequence with every other w
 Feedforward Networks: Transform attention outputs into meaningful predictions.
 
 Layer Normalization & Residuals: Stabilize training and improve convergence.
+
 ![Screenshot 2025-05-16 133424](https://github.com/user-attachments/assets/d69fa5d3-0f00-4dfc-b41c-8823c0ef697e)
-
-
 
 ### 4.2 Training Techniques
 Pre-training: LLMs are trained on large text corpora with unsupervised objectives like next-token prediction or masked language modeling.
